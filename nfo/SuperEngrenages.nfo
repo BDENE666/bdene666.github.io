@@ -1,0 +1,85 @@
+         ŞÛÛÛ  ŞÛÛÛ  ŞÛÛÛß       ÛÛİ  Ûİ ÛÛÛÛÛß   ÜÛÛ    ÜÛÛ    ÜÛÛ
+         ŞÛ ŞÛ ŞÛ ŞÛ ŞÛ          ÛÛÛİ Ûİ ÛÛ      ÛÛÛ    ÛÛÛ    ÛÛÛ
+         ŞÛÛÛÜ ŞÛ ŞÛ ŞÛÛÛİ       ÛÛŞÛİÛİ ÛÛÛÛÛİ ÛÛ ßÛİ ÛÛ ßÛİ ÛÛ ßÛİ
+         ŞÛ ŞÛ ŞÛ ŞÛ ŞÛ          ÛÛ ŞÛÛİ ÛÛ     ÛÛ  Ûİ ÛÛ  Ûİ ÛÛ  Ûİ
+         ŞÛÛÛ  ŞÛÛÛ  ŞÛÛÛÜ       ÛÛ  ŞÛİ ÛÛÛÛÛÜ  ÛÛÛÛ   ÛÛÛÛ   ÛÛÛÛ
+                          
+                                    C'est Merveilleux™ 
+ 
+ÖÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ·
+º                                Presente :                                  º
+ÇÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¶
+º                                           _   _                            º
+º                      Supers              ( \_/ )                           º
+º                            Engrenages   __) _ (__                          º
+º                     _   _  ( \_/ )  _  (__ (_) __)                         º
+º                    ( \_/ )__) _ (__( \_/ )) _ (                            º
+º                   __) _ ((__ (_) __)) _ ((_/ \_)                           º
+º                  (__ (_) __)) _ ((__ (_) __)                               º
+º                     ) _ (  (_/ \_)  ) _ (                                  º
+º                    (_/ \_)         (_/ \_)                                 º
+ÇÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¶
+º                               Description                                  º
+ÇÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¶
+º  programme permettant de dimensionner un systeme de deux engrenage à axes  º
+º  paralleles en fonction de plusieurs contraintes.                          º
+º  resolution minimum: 1366x768.                                             º
+ÇÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¶
+º                              Fonctionnement                                º
+ÇÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¶
+º  Pour l'utiliser, veuillez entrer:                                         º
+º  - le rapport de reduction souhaite                                        º
+º  - l'entraxe                                                               º
+º  - la puissance a transmettre                                              º
+º  - la vitesse de l'arbre d'entree                                          º
+º  - l'angle de pression                                                     º
+º  - la resistance elastique du materiau souhaite                            º
+º  - le coefficient de securite                                              º
+º        _         _                                                         º
+º    /\_| |_/\    | |                                                        º
+º    \       / /\/   \/\                                                     º
+º   _/       \_\       /                                                     º
+º  |_    _    _|   _   |_                                                    º
+º   _|  (_)  |_   (_)   _|                                                   º
+º  |_         _|       |                                                     º
+º    \       / /       \                                                     º
+º    / _   _ \ \/\   /\/                                                     º
+º    \/ |_| \/    |_|                                                        º
+º                                                                            º
+ÇÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¶
+º                                Historique                                  º
+ÇÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¶
+º                                                                            º		 
+º    V1.1              25/11/2012                                            º 
+º  - Correction des erreurs d'inversion de nombre de dents                   º
+º                                                                            º
+º    V1.2              27/11/2012                                            º
+º  - Ajout de la musique                                                     º
+º  - Meilleure gestion des erreurs                                           º
+º                                                                            º
+º    V2.0              29/11/2012                                            º
+º  - Comme iTunes passe a 11.0, on passe a 2.0                               º
+º  - Changement de l'interface graphique                                     º
+º  - Rajout d'une animation (merci Clubber)                                  º
+º  - Rajout de fonctionalitees speciales, BDE NE666                          º
+º                                                                            º
+º    V2.1              29/11/2012                                            º
+º  - Correction de bug d'affichage                                           º
+º                                                                            º
+º    UNOFFICIAL v3.0   ??/??/20??                                            º
+º  - Maintenant les engrenages changent en fonction des dents                º
+º  - Changement de musique, et corrections de bugs de la v2                  º
+º  - Les erreurs s'affichent maintenant dans la barre de statut en majorite  º
+º  - Optimisation de l'espace                                                º
+º                                                                            º
+ÇÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¶
+º                               Heros du jour                                º
+ÇÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¶
+º                                                                            º
+º                              Code : Breizher                               º
+º                               GFX : Clubber                                º
+º                             Music : w.o.t.w                                º
+º                                                                            º
+ÇÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¶
+º                      BDE NE666 : C'est Merveilleux™                        º
+ÓÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ½

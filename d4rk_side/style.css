@@ -1,0 +1,189 @@
+
+
+p
+{
+	border: 6px white inset;
+  border-radius: 15px;
+	overflow: auto;
+	text-align: justify;
+	padding: 12px;
+	word-wrap: break-word;
+}
+
+p:hover
+{
+	border: 6px white outset;
+    border-radius: 20px;
+}
+
+#mytitle
+{
+	position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#mytitle pre
+{
+	border: 6px white outset;
+    border-radius: 10px;
+	width: 400px;
+	height: 128px;
+	word-wrap: break-word;
+	vertical-align: top;
+	font-size: 21px;
+	text-align: left;
+  color: red;
+  text-shadow: 2px 2px 6px white;
+}
+
+#mytitle img
+{
+	border: 6px white outset;
+    border-radius: 10px;
+	word-wrap: break-word;
+	vertical-align: top;
+}
+
+#mytitle canvas
+{
+	border: 6px white outset;
+    border-radius: 10px;
+	word-wrap: break-word;
+	vertical-align: top;
+  
+}
+
+#mytitle pre:hover
+{
+	border: 6px white inset;
+    border-radius: 20px;
+}
+
+#mytitle img:hover
+{
+	border: 6px white inset;
+    border-radius: 20px;
+}
+
+#mytitle canvas:hover
+{
+	border: 6px white inset;
+    border-radius: 20px;
+}
+
+pre
+{
+    display: inline-block;
+	border: 6px white outset;
+    border-radius: 10px;
+	min-width: 400px;
+	max-width: 600px;
+	word-wrap: break-word;
+	position:  relative;
+    margin: auto;
+}
+
+
+a
+{
+  opacity: 0.85;
+	color: red;
+}
+
+a:hover
+{
+  opacity: 1.0;
+	color: red;
+}
+	
+a:active 
+{
+    background-color: #666666;
+}
+
+input
+{
+	border: 3px white inset;
+	background-color: #060606; 
+    color: white; 
+	text-shadow: 1px 1px 3px white;
+	border-radius: 4px;
+}
+
+textarea
+{
+	border: 6px white inset;
+	background-color: #060606; 
+    color: white; 
+	text-shadow: 1px 1px 3px white;
+	border-radius: 15px;
+}
+
+#greetings
+{
+	position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#greetings center
+{
+  width: 400px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+	border: 6px white outset;
+  border-radius: 15px;
+	overflow: auto;
+	padding: 12px;
+	word-wrap: break-word;
+  
+}
+#greetings center:hover
+{
+	border: 6px white inset;
+  border-radius: 20px;
+}
+
+#greetings pre
+{
+	border: 6px white outset;
+    border-radius: 10px;
+	width: 666px;
+	height: 90px;
+	word-wrap: break-word;
+	vertical-align: top;
+	font-size: 14px;
+	text-align: center;
+}
+
+#greetings pre:hover
+{
+	border: 6px white inset;
+   border-radius: 20px;
+}
+
+body
+{
+  margin-left:450px;
+  margin-right:6%;
+  color: grey;
+	text-shadow: 1px 1px 3px red;
+	background:#000000 url('images/UUUUUUUUU.png') no-repeat left top;
+	background-attachment:scroll;
+}
+
+strong {
+  color: red;
+}
+
+h1
+{
+  color: red;
+  text-shadow: 3px 3px 14px grey;
+  min-width:400px;
+}
